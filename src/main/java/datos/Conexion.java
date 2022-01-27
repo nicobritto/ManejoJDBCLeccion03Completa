@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class Conexion {
-
+/*subiendo git*/
     /*cadena de conexion hacia  mysql*/
     private static final String JDBC_UR ="jdbc:mysql://localhost:3306/test?useSSl=false&useTimezone=true&serverTimezone=UTC&allowPublicKeyRetrieval=true";
                                            
